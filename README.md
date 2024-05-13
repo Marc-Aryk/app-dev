@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-**Title:** Shrangri-La Frontier
+**Title:** Shangri-La Frontier
 
 **Description:**
 
